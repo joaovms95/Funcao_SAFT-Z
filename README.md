@@ -1,4 +1,4 @@
-#O arquivo "Função PC-SAFT para obter Z" utiliza a equação de estado PC-SAFT para obter o fator de compressibilidade e é parte da dissertação de mestrado de Silva (2025).
+#O arquivo "Função PC-SAFT para obter Z" utiliza a equação de estado PC-SAFT para obter o fator de compressibilidade e é parte da dissertação de mestrado de Silva (2025). O código deve ser usado no software Scilab.
 
 #Referências:
 
